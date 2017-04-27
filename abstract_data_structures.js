@@ -18,9 +18,9 @@
   set.add(icha);
 
   // set keeps only unique values
-  console.log( set.size ); // 3
+  console.log(set.size); // 3
 
-  for(let user of set) {
+  for (let user of set) {
     console.log(user.name); // Akbar (then Rifki and Icha)
   }
 // ------------
